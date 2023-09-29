@@ -14,7 +14,7 @@ msgstr "Start"
 
 #: Welcome to Kiwi IRC!
 msgid "start_greeting"
-msgstr "Welcome to Kiwi IRC!"
+msgstr "Welcome to IRC chat!"
 
 #: Close
 msgid "close"
