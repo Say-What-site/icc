@@ -21,7 +21,7 @@ msgstr "Iniciar"
 
 #: Welcome to Kiwi IRC!
 msgid "start_greeting"
-msgstr "Bem vindos ao Kiwi IRC!"
+msgstr "Bem vindos ao IRC chat!"
 
 #: Close
 msgid "close"
@@ -45,7 +45,7 @@ msgstr "Definições"
 
 #: Kiwi Settings
 msgid "kiwi_settings"
-msgstr "Definições do Kiwi "
+msgstr "Definições do IRC chat "
 
 #: Channels
 msgid "channels"
@@ -157,7 +157,7 @@ msgstr "Atenção!"
 
 #: This will close all Kiwi IRC conversations. Are you sure you want to close this window?
 msgid "window_unload"
-msgstr "Isto irá fechar todas as janelas do Kiwi IRC. Deseja continuar?"
+msgstr "Isto irá fechar todas as janelas do IRC chat. Deseja continuar?"
 
 #: Real name
 msgid "whois_realname"
@@ -717,7 +717,7 @@ msgstr "Houve um erro ao iniciar o Kiwi IRC :("
 
 #: Make sure you have installed Kiwi IRC correctly and the configurartion can be loaded
 msgid "error_installed"
-msgstr "Verifique se instalou o Kiwi IRC correctamente e que o ficheiro de configuração pode ser carregado."
+msgstr "Verifique se instalou o IRC chat correctamente e que o ficheiro de configuração pode ser carregado."
 
 #: Leave {{name}}
 msgid "state_leave"
@@ -1065,11 +1065,11 @@ msgstr "Está a tentar ligar à rede {{network}}"
 
 #: Network has been added to your existing Kiwi window.
 msgid "personal_added_to_existing"
-msgstr "A rede foi adicionada à janela existente do KiwiIRC"
+msgstr "A rede foi adicionada à janela existente do IRC"
 
 #: Add network to existing Kiwi window
 msgid "personal_add_existing_tab"
-msgstr "Adicionar rede à janela existente do KiwiIRC"
+msgstr "Adicionar rede à janela existente do IRC"
 
 #: Temporarily connect to this network
 msgid "personal_connect_temporary"
@@ -1081,11 +1081,11 @@ msgstr "Redes guardadas"
 
 #: Kiwi IRC (next gen) - Rizon preview
 msgid "rizon_title"
-msgstr "Kiwi IRC (próxima geração) - Pré-visualização Rizon"
+msgstr "IRC chat (próxima geração) - Pré-visualização Rizon"
 
 #: Direct websockets. No Kiwi server or webirc involved.
 msgid "rizon_websockets"
-msgstr "Websocket directo. Nenhum servidor Kiwi ou webirc envolvido."
+msgstr "Websocket directo. Nenhum servidor IRC chat ou webirc envolvido."
 
 #: (Thanks to Adam @Rizon for the development websocket server support!)
 msgid "rizon_thanks"
@@ -1093,7 +1093,7 @@ msgstr "(Obrigado a Adam @Rizon pelo desenvolvimento do suporte a servidor webso
 
 #: Give the developer version of Kiwi IRC a try!
 msgid "rizon_dev"
-msgstr "Dê à versão de desenvolvimento do Kiwi IRC uma tentativa!"
+msgstr "Dê à versão de desenvolvimento do IRC chat uma tentativa!"
 
 #: Disconnected
 msgid "disconnected"
@@ -1101,7 +1101,7 @@ msgstr "Desligado"
 
 #: Connected to {{network}}!
 msgid "connected_to"
-msgstr "Ligado a rede {{network}}"
+msgstr "Ligado à rede: {{network}}"
 
 #: {{nick}} has joined
 msgid "has_joined"
@@ -1121,7 +1121,7 @@ msgstr "{{nick}} saiu"
 
 #: {{nick}} invited you to join {{channel}}
 msgid "invited_you"
-msgstr "{{nick}} convidou-te para o canal {{channel}}"
+msgstr "{{nick}} convidou-o para o canal {{channel}}"
 
 #: {{nick}} invited {{invited}} to join {{channel}}
 msgid "invited_other"
